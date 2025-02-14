@@ -1,0 +1,190 @@
+
+  body{
+    color: white;
+    background-color: black;
+    width: 100%;
+    background-attachment:scroll;
+    background-image: url(./src/skil.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: fit-content;
+  }
+  .c{
+    background-image: url(./src/images.png);
+    background-repeat: no-repeat;
+    background-size:20%;
+    height: 600px;
+    width: 500px;
+    margin-top: 100px;
+    padding-top: 100px;
+    margin-left: 100px;
+    align-items: center;
+    font-size: 18px;
+    padding-top: 170px;
+    font-weight: bolder;
+    text-align: left;
+ 
+
+  }
+  h2{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+  }
+  .c3{
+    background-image: url(./src/c++.png);
+    background-repeat: no-repeat;
+    background-size:30%;
+    height: 600px;
+    width: 500px;
+    margin-top: -770px;
+    padding-top: 100px;
+    margin-left: 400px;
+    align-items: center;
+    font-size: 18px;
+    padding-top: 170px;
+    font-weight: bolder;
+  }
+  .hh{
+    background-image: url(./src/html5.jpg);
+    background-repeat: no-repeat;
+    background-size:30%;
+    height: 600px;
+    width: 500px;
+    margin-top: -790px;
+    padding-top: 100px;
+    margin-left: 700px;
+    font-size: 18px;
+    padding-top: 170px;
+    font-weight: bolder;
+  }
+  .css{
+    background-image: url(./src/download\ \(7\).jpeg);
+    background-repeat: no-repeat;
+    background-size:30%;
+    height: 600px;
+    width: 500px;
+    margin-top: -770px;
+    padding-top: 100px;
+    margin-left: 1000px;
+    font-size: 18px;
+    padding-top: 170px;
+    font-weight: bolder;
+  }
+  .js{
+    background-image: url(./src/js.png);
+    background-repeat: no-repeat;
+    background-size:30%;
+    height: 600px;
+    width: 500px;
+    margin-top: -770px;
+    padding-top: 100px;
+    margin-left: 1000px;
+    font-size: 18px;
+    padding-top: 170px;
+    font-weight: bolder;
+  
+  }
+  .java{
+    background-image: url(./src/download\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size:30%;
+    height: 600px;
+    width: 500px;
+    margin-top: -500px;
+    padding-top: 100px;
+    margin-left: 100px;
+    font-size: 18px;
+    padding-top: 170px;
+    font-weight: bolder;
+  }
+  .fig{
+    background-image: url(./src/download\ \(4\).png);
+    background-repeat: no-repeat;
+    background-size:30%;
+    height: 600px;
+    width: 500px;
+    margin-top: -770px;
+    padding-top: 100px;
+    margin-left: 400px;
+    font-size: 18px;
+    padding-top: 170px;
+    font-weight: bolder;
+  }
+  .python{
+  background-image: url(./src/download\ \(3\).png);
+  background-repeat: no-repeat;
+  background-size:30%;
+  height: 600px;
+  width: 500px;
+  margin-top: -770px;
+  padding-top: 100px;
+  margin-left: 700px;
+  font-size: 18px;
+  padding-top: 170px;
+  font-weight: bolder;
+  }
+ .git
+ {
+  background-image: url(./src/git.png);
+  background-repeat: no-repeat;
+  background-size:30%;
+  height: 600px;
+  width: 500px;
+  margin-top: -500px;
+  padding-top: 100px;
+  margin-left: 100px;
+  font-size: 18px;
+  padding-top: 170px;
+  font-weight: bolder;
+ }
+ .react
+ {
+  background-image: url(./src/react.png);
+  background-repeat: no-repeat;
+  background-size:30%;
+  height: 600px;
+  width: 500px;
+  margin-top: -770px;
+  padding-top: 100px;
+  margin-left: 400px;
+  font-size: 18px;
+  padding-top: 170px;
+  font-weight: bolder;
+ }
+ .Django
+ {
+  background-image: url(./src/django.png);
+  background-repeat: no-repeat;
+  background-size:30%;
+  height: 600px;
+  width: 500px;
+  margin-top: -770px;
+  padding-top: 100px;
+  margin-left: 700px;
+  font-size: 18px;
+  padding-top: 170px;
+  font-weight: bolder;
+ }
+ .boot{
+  background-image: url(./src/boot.jpeg);
+  background-repeat: no-repeat;
+  background-size:30%;
+  height: 600px;
+  width: 500px;
+  margin-top: -770px;
+  padding-top: 100px;
+  margin-left: 1000px;
+  font-size: 18px;
+  padding-top: 170px;
+  font-weight: bolder;
+ }
+ section{
+  margin-left: 100px;
+  background-attachment: fixed;
+ }
+i{
+  font-size:35px;
+  color: white;
+  margin-top: 40px;
+}

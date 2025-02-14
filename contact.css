@@ -1,0 +1,89 @@
+.div
+{
+    background-image: url(./src/1000_F_800401507_XwbdrSBD7woOpcSJOEyj1yEX1LjLulDQ.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 300px;
+    margin-top: 500px;
+  
+    
+}
+form{
+    margin-left: 500px;
+    margin-top: -400px;
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(171, 171, 162);
+}
+.f1{
+    width: 300px;
+    height: 40px;
+    border: solid whitesmoke;
+     padding-left: 10px;
+     color: rgb(171, 171, 162);
+}
+.f2{
+    width: 300px;
+    height: 70px;
+    border: solid whitesmoke;
+    padding-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(171, 171, 162);
+}
+h1{
+    font-size: 25px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.button
+{
+    width: 300px;
+    height: 40px;
+    border: solid whitesmoke;
+    background-color: rgb(51, 51, 127);
+}
+body{
+  background-color: black;
+}
+.call{
+    margin-left: 500px;
+    margin-top: 40px;
+    color: white;
+}
+
+.email{
+    margin-left: 600px;
+    color: white;
+    margin-top: -35px;
+    text-decoration: non;
+
+}
+.email i{
+    color: white;
+}
+.linkedin{
+    margin-left: 750px;
+    margin-top: -40px;
+}
+.linkedin i{
+    color: white;
+}
+h2{
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+}
+.call i{
+    color: blue;
+}
+ .ai{
+    font-size:30px;
+    margin-top: 60px;
+    color: white;
+    margin-left: 20px;
+  
+  }
+
